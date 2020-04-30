@@ -1,4 +1,4 @@
-/* Implementation of static Liner Queue */
+/* Implementation of static Linear Queue */
 #include <stdio.h>
 #include <conio.h>
 #define SIZE 5
