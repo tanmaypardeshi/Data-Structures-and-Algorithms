@@ -17,6 +17,8 @@
 * **Graph using adjacency matrix**
 * **Graph using adjacency list**
 
+<hr>
+
 ## Algorithms
 
 * **Bubble Sort**
@@ -31,6 +33,7 @@
 * **Merging of 2 Sorted Linked Lists into 1 Linked List**
 * **Check whether a string is a palindrome using stack**
 
+<hr>
 
 ## Table of Contents for Data Structures
 
