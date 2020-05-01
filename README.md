@@ -42,7 +42,7 @@
 |[SCL.C](Programs/SCL.C)            |Singly Circular Linked List and its operations 1|
 |[SCLL.C](Programs/SCLL.C)          |Singly Circular Linked List and its operations 2|
 |[ST_STACK.C](Programs/ST_STACK.C)  |Primitive Operations on static stack|
-|[DYN_STACK.C](Programs/DYN_STACK.C)|Dynamic Stack|
+|[DYN_STK.C](Programs/DYN_STK.C)    |Dynamic Stack|
 |[ST_LQ.C](Programs/ST_LQ.C)        |Static Linear Queue|
 |[ST_CQ.C](Programs/ST_CQ.C)        |Static Circular Queue|
 |[PRIOR_Q.C](Programs/PRIOR_Q.C)    |Priority Queue|
@@ -52,7 +52,7 @@
 |[BST_NRC.C](Programs/BST_NRT.C)    |Binary Search Tree Non Recursive Traversal|
 |[GRPH_DFS.C](Programs/GRPH_DFS.C)  |Depth first search traversal Graph|
 |[GRPH_BFS.C](Programs/GRPH_BFS.C)  |Breadth first search traversal Graph|
-|[GRP_ODID.C](Programs/GRO_ODID.C)  |In degree and Out degree in a Graph|
+|[GRP_ODID.C](Programs/GRP_ODID.C)  |In degree and Out degree in a Graph|
 
 
 
@@ -64,7 +64,7 @@
 |[BIN_SRCH.C](Programs/BIN_SRCH.C)    |Binary Search|
 |[BUB_SORT.C](Programs/BUB_SORT.C)    |Bubble Sort|
 |[SEL_SORT.C](Programs/SEL_SORT.C)    |Selection Sort(1)|
-|[SELSORT2.C](Programs/SELSORT2.c)    |Selection Sort(2)|
+|[SELSORT2.C](Programs/SELSORT2.C)    |Selection Sort(2)|
 |[INS_SORT.C](Programs/INS_SORT.C)    |Insertion Sort(1)|
 |[INS_TEMP.C](Programs/INS_TEMP.C)    |Insertion Sort(2)|
 |[QK_SORT.C](Programs/QK_SORT.C)      |Quick Sort|
