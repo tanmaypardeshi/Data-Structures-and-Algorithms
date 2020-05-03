@@ -38,7 +38,7 @@
 ## Table of Contents for Data Structures
 
 | Program Name                     | Description                          |
-| :-----------------------------:  | :--------------------------------:   |
+| :-----------------------------:  | :--------------------------------    |
 |[SLL.C](Programs/SLL.C)            |Singly Linked List and its operations|
 |[DLL.C](Programs/DLL.C)            |Doubly Linked List and its operations 1|
 |[DBL.C](Programs/DBL.C)            |Doubly Linked List and its operations 2|
@@ -62,7 +62,7 @@
 ## Table of Contents for Algorithms
 
 | Program Name                     | Description                          |
-| :-----------------------------:  | :--------------------------------:   |
+| :-----------------------------:  | :--------------------------------    |
 |[LI_SRCH.C](Programs/LI_SRCH.C)      |Linear Search|
 |[BIN_SRCH.C](Programs/BIN_SRCH.C)    |Binary Search|
 |[BUB_SORT.C](Programs/BUB_SORT.C)    |Bubble Sort|
